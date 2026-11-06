@@ -1,12 +1,12 @@
-﻿<div align="center">
+<div align="center">
 
 # ⚡ Chaitanya Raut
-### B.Tech Computer Science & Business Systems • KIT's College of Engineering, Kolhapur
+### B.Tech Computer Science & Business Systems &bull; KIT's College of Engineering, Kolhapur
 **Full-Stack Developer | AI/ML Engineer | Distributed Systems & Real-Time Media**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D2FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaitanya+Raut;Full-Stack+Engineer+(MERN+%2B+FastAPI);AI+%2F+Machine+Learning+Developer;Real-Time+Media+%26+OTT+Telemetry;Hackathon+Winner+%7C+200%2B+DSA+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D2FF&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaitanya+Raut;Full-Stack+Engineer+(MERN+%2B+FastAPI);AI+%2F+Machine+Learning+Developer;Real-Time+Media+%26+OTT+Telemetry;Hackathon+Winner+%7C+200%2B+DSA+Solved)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,80 +23,86 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Undergraduate Scholar**: Pursuing B.Tech in **Computer Science & Business Systems** at **KIT's College of Engineering, Kolhapur** (CGPA: **8.7 / 10** | 2023–2027).
-- 🚀 **Specializations**: High-throughput web applications, edge AI & ONNX model inference, real-time multimedia streaming (RTP/HLS), and enterprise RAG compliance systems.
-- 🛠️ **Engineering Mindset**: Focused on clean layered architecture, database consistency, zero-downtime microservices, and idempotent distributed state management.
-- 🎯 **Current Focus**: Scaling multi-modal threat intelligence pipelines and optimizing low-latency video contribution protocols.
-- 💬 **Ask me about**: Full-Stack architecture (React, FastAPI, Node.js), Vector RAG pipelines, ONNX Runtime optimization, and DSA problem solving.
+- 🚀 **Core Focus**: Designing scalable full-stack web architectures, edge AI & ONNX model inference pipelines, real-time multimedia streaming (RTP/HLS), and enterprise RAG compliance systems.
+- 🛠️ **Engineering Principles**: Clean layered architecture, deterministic database consistency, idempotent distributed transactions, and low-latency API delivery.
+- 🎯 **What I'm Exploring**: Multi-vector threat intelligence, RAG vector optimization with `pgvector`, and zero-dependency edge inference architectures.
+- 💬 **Ask me about**: Full-Stack engineering (React, Node.js, FastAPI), ONNX Runtime optimization, Vector RAG workflows, and algorithmic problem solving.
 
 ---
 
 ## 🏆 Honors & Key Achievements
 
-| Achievement | Description & Organization |
-|:---|:---|
-| 🥇 **Hackathon Winner** | **1st Place Winner** at **KodeKshetra Hackathon**, DKTES College of Engineering, Ichalkaranji |
-| ⭐ **5-Star Python Coder** | Earned **5-Star Gold Badge** in Python on **HackerRank** |
-| 🧩 **200+ DSA Problems** | Solved **200+ algorithmic challenges** across LeetCode & HackerRank |
-| 🇮🇳 **Smart India Hackathon** | Qualified & Participated in **Smart India Hackathon (SIH) 2024** |
-| ⚡ **Adobe Hackathon 2025** | Participant in **Adobe Hackathon 2025** |
-| 👥 **Technical Leadership** | Core Technical Member at **MATRIX Club** (College-level student technical association managing 50+ members across 7 domains) |
-| 📜 **Industry Certifications** | **Google AI/ML** (AICTE EduSkills) • **Google Cloud Cybersecurity** • **Google Android Development** • **Java Full Stack Engineering** |
+| Badge | Achievement | Context & Organization |
+|:---:|:---|:---|
+| 🥇 | **KodeKshetra Hackathon Winner** | **1st Place Winner** at **KodeKshetra Hackathon**, DKTES College of Engineering, Ichalkaranji |
+| ⭐ | **HackerRank 5-Star Python Coder** | Achieved prestigious **5-Star Gold Badge** in Python on **HackerRank** |
+| 🧩 | **200+ Algorithmic Challenges Solved** | Solved **200+ DSA problems** across LeetCode and HackerRank |
+| 🇮🇳 | **Smart India Hackathon (SIH) 2024** | Selected & Participated in **Smart India Hackathon 2024** |
+| ⚡ | **Adobe Hackathon 2025** | Selected & Participated in **Adobe Hackathon 2025** |
+| 👥 | **Technical Leadership & Community** | Core Technical Team Member at **MATRIX Club** (College technical body hosting national events across 7 domains with 50+ members) |
+| 📜 | **Professional Certifications** | **Google AI/ML** (AICTE EduSkills) &bull; **Google Cloud Cybersecurity** &bull; **Google Android Development** &bull; **Java Full Stack Engineering** |
 
 ---
 
 ## 🌟 Featured Key Projects
 
-### 1. [KrishiKavach Stable](https://github.com/Chaitanyaraut027/Krushi-kavach-stable-) • *Smart Agriculture & Edge AI Crop Protection*
-> **Ensemble AI disease diagnostic engine running lightweight ONNX inference with real-time GIS telemetry.**
-- **Tri-Model Ensemble Architecture**: Integrates **YOLOv8** (Banana, Chilli, Radish, Groundnut, Cauliflower) + **MobileNetV2** + **EfficientNet** across 38 PlantVillage disease classes.
-- **High-Speed ONNX Runtime Engine**: Eliminates heavy PyTorch dependencies in production, achieving ultra-low latency inference packaged in Docker.
-- **Full-Stack GIS & Telemetry**: Dynamic crop pathology map powered by Leaflet, real-time outbreak push alerts via Socket.IO, and localized multi-language advisory (i18n).
-- **Tech Stack**: FastAPI • ONNX Runtime • React.js • Vite • Tailwind CSS • Socket.IO • Leaflet • Docker
+### 1. [KrishiKavach Stable](https://github.com/Chaitanyaraut027/Krushi-kavach-stable-) &bull; *Smart Agriculture & Edge AI Crop Protection*
+> **Ensemble AI diagnostic platform running lightweight ONNX inference with real-time GIS pathology telemetry.**
+
+- **Tri-Model Ensemble Architecture**: Combines **YOLOv8** (specialized on Banana, Chilli, Radish, Groundnut, Cauliflower) + **MobileNetV2** + **EfficientNet** trained across 38 PlantVillage disease classes.
+- **High-Speed ONNX Runtime Engine**: Eliminates heavy PyTorch runtime overhead in production, allowing sub-second inference speeds packaged with Docker on Render.
+- **Real-Time GIS & Telemetry**: Dynamic crop disease heatmapping via Leaflet, instant outbreak notifications dispatched via Socket.IO, and localized multi-language advisory (i18n).
+- **Tech Stack**: `FastAPI` &bull; `ONNX Runtime` &bull; `React.js` &bull; `Vite` &bull; `Tailwind CSS` &bull; `Socket.IO` &bull; `Leaflet` &bull; `Docker`
 
 ---
 
-### 2. [ShareCircle](https://github.com/Chaitanyaraut027/ShareCircle) • *AI-Assisted Community Resource Sharing Platform*
+### 2. [ShareCircle](https://github.com/Chaitanyaraut027/ShareCircle) &bull; *AI-Assisted Community Resource Sharing Platform*
 > **Full-stack peer-to-peer mutual aid ecosystem with intelligent computer vision verification.**
-- **Community Matching Engine**: Seamlessly bridges individuals requiring assistance with local resource donors through real-time feeds.
+
+- **Community Matching Engine**: Seamlessly connects citizens in need with generous local donors through real-time request and donation feeds.
 - **AI-Powered Item Verification**: Integrated computer vision image detection pipeline to validate, categorize, and auto-tag donated supplies before public listing.
-- **Real-Time Communication**: Bidirectional messaging channels and live interaction telemetry powered by Socket.IO.
-- **Tech Stack**: React.js • Node.js • Express.js • Socket.IO • Computer Vision AI • Tailwind CSS • REST APIs
+- **Real-Time Communication**: Bidirectional messaging channels and live interaction telemetry powered by Socket.IO for prompt volunteer coordination.
+- **Tech Stack**: `React.js` &bull; `Node.js` &bull; `Express.js` &bull; `Socket.IO` &bull; `Computer Vision AI` &bull; `Tailwind CSS` &bull; `REST APIs`
 
 ---
 
-### 3. [Self-Hosted Real-Time Broadcast & OTT Delivery Platform](https://github.com/Chaitanyaraut027/Self-Hosted-Real-Time-Broadcast-Contribution) • *Broadcast Contribution Simulation & Telemetry*
+### 3. [Self-Hosted Real-Time Broadcast & OTT Delivery Platform](https://github.com/Chaitanyaraut027/Self-Hosted-Real-Time-Broadcast-Contribution) &bull; *Broadcast Contribution Simulation & Telemetry*
 > **End-to-end contribution pipeline simulator with RTP/UDP transport monitoring and HLS playback.**
+
 - **Media Ingestion & Processing**: Simulates full broadcast contribution feeds via FFmpeg encoding, RTP/UDP transport streaming, and segmented HLS browser delivery.
 - **Live QoS/QoE Transport Metrics**: Real-time packet loss detection, jitter analysis, RTP sequence discontinuity tracking, and adaptive bitrate monitoring.
 - **Interactive Telemetry Dashboard**: High-refresh React monitoring dashboard connected to real-time WebSockets telemetry feeds.
-- **Tech Stack**: Node.js • FFmpeg • RTP / UDP • HLS Delivery • WebSockets • React.js • Chart.js
+- **Tech Stack**: `Node.js` &bull; `FFmpeg` &bull; `RTP / UDP` &bull; `HLS Delivery` &bull; `WebSockets` &bull; `React.js` &bull; `Chart.js`
 
 ---
 
-### 4. [EVE Healthcare](https://github.com/Chaitanyaraut027/Eve-Healthcare) • *Diagnostic Booking & Idempotent Financial Gateway Service*
+### 4. [EVE Healthcare](https://github.com/Chaitanyaraut027/Eve-Healthcare) &bull; *Diagnostic Booking & Idempotent Financial Gateway Service*
 > **Production-grade RESTful backend engineered for high-concurrency diagnostic appointments and atomic payment workflows.**
+
 - **Strict Layered Architecture**: Modular domain design isolating routing, validation, domain controllers, and repository persistence.
-- **Financial Idempotency & Concurrency**: Mitigates race conditions during duplicate webhook callbacks via PostgreSQL atomic state locks and unique event_id deduplication.
+- **Financial Idempotency & Concurrency**: Mitigates race conditions during duplicate webhook callbacks via PostgreSQL atomic state locks and unique `event_id` deduplication.
 - **Robust Security & Contract Enforcement**: End-to-end schema validation via Zod, token authentication, and distributed rate limiting middleware.
-- **Tech Stack**: Node.js • Express.js • PostgreSQL • Zod • REST APIs • Rate Limiting
+- **Tech Stack**: `Node.js` &bull; `Express.js` &bull; `PostgreSQL` &bull; `Zod` &bull; `REST APIs` &bull; `Rate Limiting`
 
 ---
 
-### 5. [Food Regulatory Compliance Copilot](https://github.com/Chaitanyaraut027/compliance-regulatory-copilot) • *AI-Powered FSSAI Legal & Safety Assessment RAG Pipeline*
+### 5. [Food Regulatory Compliance Copilot](https://github.com/Chaitanyaraut027/compliance-regulatory-copilot) &bull; *AI-Powered FSSAI Legal & Safety Assessment RAG Pipeline*
 > **Retrieval-Augmented Generation system transforming regulatory PDF compendiums into structured compliance audits.**
+
 - **Multi-Document Ingestion Engine**: PyMuPDF extraction and semantic chunking of massive official food safety standards and contaminant manuals.
-- **Vector Embeddings & Hybrid Search**: Vectorized regulatory clauses stored in **Supabase PostgreSQL** utilizing pgvector cosine similarity search.
+- **Vector Embeddings & Hybrid Search**: Vectorized regulatory clauses stored in **Supabase PostgreSQL** utilizing `pgvector` cosine similarity search.
 - **Automated Compliance Auditing**: Evaluates company ingredient profiles against retrieved legal standards to generate structured JSON non-compliance reports.
-- **Tech Stack**: Python • FastAPI • Supabase PostgreSQL (pgvector) • PyMuPDF • OpenAI / LLMs • React.js
+- **Tech Stack**: `Python` &bull; `FastAPI` &bull; `Supabase PostgreSQL (pgvector)` &bull; `PyMuPDF` &bull; `OpenAI / LLMs` &bull; `React.js`
 
 ---
 
-### 6. [CyberShield AI](https://github.com/Chaitanyaraut027/CyberShield-ai) • *Full-Stack Multi-Vector Threat Intelligence Engine*
+### 6. [CyberShield AI](https://github.com/Chaitanyaraut027/CyberShield-ai) &bull; *Full-Stack Multi-Vector Threat Intelligence Engine*
 > **Comprehensive anti-phishing defense analyzing suspicious URLs, SMS smishing, and malicious QR codes in real time.**
+
 - **Tri-Vector ML Defense**: Unified threat intelligence integrating URL lexical heuristics, NLP SMS smishing classification, and QR code payload inspection.
 - **Live Device Camera Scanner**: Responsive mobile and desktop interface enabling live camera feeds for instant QR threat verification.
-- **Modular Full-Stack API**: FastAPI backend backed by SQLAlchemy with dynamic model artifact loading (joblib) and automated audit logging.
-- **Tech Stack**: FastAPI • React.js • Vite • Tailwind CSS • Scikit-learn • SQLAlchemy • PostgreSQL / SQLite
+- **Modular Full-Stack API**: FastAPI backend backed by SQLAlchemy with dynamic model artifact loading (`joblib`) and automated audit logging.
+- **Tech Stack**: `FastAPI` &bull; `React.js` &bull; `Vite` &bull; `Tailwind CSS` &bull; `Scikit-learn` &bull; `SQLAlchemy` &bull; `PostgreSQL / SQLite`
 
 ---
 
@@ -159,7 +165,7 @@
 
 ## 🤝 Let's Connect & Collaborate!
 
-I am always keen to discuss **software engineering roles, collaborative open-source projects, and cutting-edge tech initiatives**.
+I am actively open to **software engineering roles, AI/ML engineering opportunities, and collaborative open-source ventures**.
 
 - 💼 **LinkedIn**: [linkedin.com/in/chaitanya-raut-9334472b0](https://www.linkedin.com/in/chaitanya-raut-9334472b0/)
 - 💻 **GitHub**: [github.com/Chaitanyaraut027](https://github.com/Chaitanyaraut027)
